@@ -1,0 +1,68 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../images/interface/background.png);
+}
+.wrapper {
+	background-color: #FFF;
+	padding: 0px;
+	width: 950px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-image: url(../images/interface/background.png);
+}
+.wrapper .content {
+	background-color: #FFF;
+}
+.wrapper .content h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 75px;
+	font-weight: bold;
+	padding-left: 30px;
+}
+.navigation {
+	padding: 20px;
+	margin: 0px;
+}
+.wrapper .navigation table {
+	border: thick solid #606;
+	background-image: none;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.navigation td {
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.navigation a {
+	color: #711781;
+	text-decoration: none;
+}
+.wrapper .content p a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #909;
+}
+
+.thispage {
+	background-color: #99F;
+}
+.wrapper .content p {
+	margin: auto;
+	padding-right: 12px;
+	padding-bottom: 10px;
+	padding-left: 12px;
+	text-align: left;
+	line-height: 25px;
+}
+.wrapper .content img {
+	padding-left: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
