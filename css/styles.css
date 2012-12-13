@@ -48,7 +48,7 @@ margin .navigation a {
 .wrapper .content p a {
 	font-weight: bold;
 	text-decoration: none;
-	color: #909;
+	color: #711781;
 }
 .thispage {
 	background-color: #99F;
@@ -64,10 +64,20 @@ margin .navigation a {
 .center-image {
 	text-align: center;
 	padding-top: 10px;
+	padding-bottom: 20px;
+	border-bottom-width: thick;
+	border-bottom-style: solid;
+	border-bottom-color: #711781;
+	border-top-width: thick;
+	border-top-style: solid;
+	border-top-color: #711781;
 }
 .picture-left {
 	float: left;
 	margin-right: 25px;
+	border: medium solid #711781;
+	margin-left: 15px;
+	margin-bottom: 15px;
 }
 .clearfix {
 	clear: both;
