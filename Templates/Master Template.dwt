@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="file:///I|/This is My Final Project/Grateful-Dead/css/styles.css" rel="stylesheet" type="text/css" />
+<!-- TemplateParam name="navigation-home" type="boolean" value="false" -->
+<!-- TemplateParam name="navigation-musicalstyle" type="boolean" value="false" -->
+<!-- TemplateParam name="navigation-deadheads" type="boolean" value="false" -->
+<!-- TemplateParam name="navigation-furthur" type="boolean" value="false" -->
+<!-- TemplateParam name="navigation-counterculturerev" type="boolean" value="false" -->
+</head>
+
+<body>
+<div class="wrapper">
+	<div class="navigation"><!-- TemplateBeginIf cond="_document['navigation-home']" -->
+		<table>
+			<tr>
+				<td class="thispage"><a href="file:///I|/This is My Final Project/Grateful-Dead/index.html">Band History</a></td>
+				<td><a href="file:///I|/This is My Final Project/Grateful-Dead/musical-style.html">Musical Style</a></td>
+				<td><a href="file:///I|/This is My Final Project/Grateful-Dead/counterculture.html">Counterculture Revolution </a></td>
+				<td><a href="file:///I|/This is My Final Project/Grateful-Dead/fans.html">Deadheads</a></td>
+				<td><a href="file:///I|/This is My Final Project/Grateful-Dead/present-day-dead.html">Furthur</a></td>
+			</tr>
+		</table>
+	<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['navigation-musicalstyle']" -->
+	<table>
+		<tr>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/index.html">Band History</a></td>
+			<td class="thispage"><a href="file:///I|/This is My Final Project/Grateful-Dead/musical-style.html">Musical Style</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/counterculture.html">Counterculture Revolution </a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/fans.html">Deadheads</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/present-day-dead.html">Furthur</a></td>
+		</tr>
+	</table>
+	<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['navigation-counterculturerev']" -->
+	<table>
+		<tr>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/index.html">Band History</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/musical-style.html">Musical Style</a></td>
+			<td class="thispage"><a href="file:///I|/This is My Final Project/Grateful-Dead/counterculture.html">Counterculture Revolution </a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/fans.html">Deadheads</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/present-day-dead.html">Furthur</a></td>
+		</tr>
+	</table>
+	<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['navigation-deadheads']" -->
+	<table>
+		<tr>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/index.html">Band History</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/musical-style.html">Musical Style</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/counterculture.html">Counterculture Revolution </a></td>
+			<td class="thispage"><a href="file:///I|/This is My Final Project/Grateful-Dead/fans.html">Deadheads</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/present-day-dead.html">Furthur</a></td>
+		</tr>
+	</table>
+	<!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['navigation-furthur']" -->
+	<table>
+		<tr>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/index.html">Band History</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/musical-style.html">Musical Style</a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/counterculture.html">Counterculture Revolution </a></td>
+			<td><a href="file:///I|/This is My Final Project/Grateful-Dead/fans.html">Deadheads</a></td>
+			<td class="thispage"><a href="file:///I|/This is My Final Project/Grateful-Dead/present-day-dead.html">Furthur</a></td>
+		</tr>
+	</table>
+	<!-- TemplateEndIf --></div>
+		<div class="content"><!-- TemplateBeginEditable name="Content" -->
+		<p>Here is my content</p>
+    <!-- TemplateEndEditable --> </div>
+        
+</div>
+</body>
+</html>
